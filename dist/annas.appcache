@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# html
+index.html
+# css
+css/component.css
+css/normalize.css
+# font
+fonts/bpiconsbpicons.eot
+fonts/bpiconsbpicons.svg
+fonts/bpiconsbpicons.ttf
+fonts/bpiconsbpicons.woff
+fonts/bpiconslicense.txt
+fonts/icomoonicomoon.eot
+fonts/icomoonicomoon.svg
+fonts/icomoonicomoon.ttf
+fonts/icomoonicomoon.woff
+# javascript
+js/jquery-2.1.1.min.js
+js/views.js
+# image
+img/annasworks.png
+img/building1200p.jpg
+img/hawaiian.png
+img/meatlovers.png
+img/pizza.ico
+img/veggie.png
