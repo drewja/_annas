@@ -120,11 +120,6 @@ var drawPage = function() {
     $('.underline-left').css('display', "block");
 };
 
-WebFont.load({
-    google: {
-        families: ['Pacifico', 'Lobster', 'Anton', 'Devonshire']
-    }
-});
 
 whenReady(function() {
     drawPage();
