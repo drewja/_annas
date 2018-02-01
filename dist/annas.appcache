@@ -2,15 +2,14 @@ CACHE MANIFEST
 css/component.css
 css/normalize.css
 # font
-fonts/bpiconsbpicons.eot
-fonts/bpiconsbpicons.svg
-fonts/bpiconsbpicons.ttf
-fonts/bpiconsbpicons.woff
-fonts/bpiconslicense.txt
-fonts/icomoonicomoon.eot
-fonts/icomoonicomoon.svg
-fonts/icomoonicomoon.ttf
-fonts/icomoonicomoon.woff
+fonts/bpicons/bpicons.eot
+fonts/bpicons/bpicons.svg
+fonts/bpicons/bpicons.ttf
+fonts/bpicons/bpicons.woff
+fonts/icomoon/icomoon.eot
+fonts/icomoon/icomoon.svg
+fonts/icomoon/icomoon.ttf
+fonts/icomoon/icomoon.woff
 # javascript
 js/jquery-2.1.1.min.js
 js/views.js
