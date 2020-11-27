@@ -277,7 +277,6 @@ a:hover {
     width: 100%;
     margin: 0;
     line-height: 2em;
-    border-bottom: 1px solid black;
 }
 
 .telephone>span {
@@ -291,15 +290,16 @@ a:hover {
     font-size: 2em;
     font-weight: 100;
     padding: .225em 1em 0 0;
-    margin: 0 0 0 0;
+    margin: 0 0 0 .5em;
 }
 
 .hours {
     top: 0em;
-    left: 0em;
+    left: 1em;
     position: absolute;
     padding-right: 10px;
-    zindex: 100;
+    padding-left: 1em;
+    z-index: 100;
 }
 
 .hours>h4 {
@@ -839,12 +839,12 @@ em {
 
 @media screen and (max-width: 35em) {
     .container>header {
-        padding-left: 1em;
+        padding-left: 0em;
         padding-right: 0em;
     }
     .container>header h1 {
         width: 100%;
-        text-align: left;
+        text-align: center;
         font-size: 3em;
         padding: 0em;
     }
@@ -859,7 +859,7 @@ em {
     .hours {
         text-align: center;
         width: 100%;
-        top: 2.2em;
+        top: 1.8em;
     }
     .telephone>span {
         padding-left: 35%;
